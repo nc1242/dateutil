@@ -1,4 +1,3 @@
-test
 dateutil - powerful extensions to datetime
 ==========================================
 
